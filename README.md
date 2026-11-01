@@ -1,1 +1,3 @@
 I created this code using the guide and explanation from the ghostship, hackclub tutorial.this is a ghost catching game where a ghost appears on the screen and moves within a specific area. we have to click on the ghost to score points within 30 seconds.
+Click the below to access the game
+https://zohairs-bot.github.io/ghostship/
